@@ -1,10 +1,16 @@
 # The-ultimate-prodigy-hacks
-A present day prodigy hacker's best friend
+A present day prodigy hacker's best friend.
+
 its simple on how to use them
+
 step 1: copy the code that seems interesting.
+
 step 2: create a bookmarklet (however on microsoft edge click the star icon).
+
 step 3: name it whatever you want.
+
 and step 4: once in prodigy, click on the bookmark and done.
+
 Enjoy!
 
 
