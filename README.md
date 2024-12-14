@@ -10,6 +10,7 @@ Enjoy!
 
 Note: there is no need to type Javascript:, its already done for you. also, these are the ones that work from rxzyx's prodigy hacks, as some dont work so I only put in the ones that work. (so far as I know, that is. well, the ones I use. except the "spam effects on people" hack.)
 I am not responsible for your use of these cheats.
+
 features:
 
 free core membership
