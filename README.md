@@ -9,7 +9,7 @@ step 2: create a bookmarklet (however on microsoft edge click the star icon, and
 
 step 3: name it whatever you want.
 
-step 4: where it says "URL", paste the code in that bar where the URL would normally go.
+step 4: where it says "URL", paste the code in that bar where the URL would normally go. (note: There is no need to type Javascript:, I already did that for ya.)
 
 and step 5: once in prodigy, click on the bookmarklet and done.
 
