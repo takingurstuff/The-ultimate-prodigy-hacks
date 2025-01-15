@@ -50,3 +50,5 @@ walk anywhere
 set walk speed
 
 Have fun with them!
+
+P.S: DO NOT copy & paste a PXI code in the developer menu in prodigy. Hackers/scammers tell people to do this to steal money and/or hack your accounts & leak your passwords. doing ANYTHING hacking related to the dev menu DONT TRUST. using these hacks are safe, but can still get you banned and/or break your prodigy account. USE THESE HACKS AT YOUR OWN RISK.
