@@ -5,11 +5,14 @@ its simple on how to use them
 
 step 1: copy the code that seems interesting.
 
-step 2: create a bookmarklet (however on microsoft edge click the star icon).
+step 2: create a bookmarklet (however on microsoft edge click the star icon, and with opera click on the heart icon).
 
 step 3: name it whatever you want.
 
-and step 4: once in prodigy, click on the bookmark and done.
+step 4: where it says "URL", paste the code in that bar where the URL would normally go.
+
+and step 5: once in prodigy, click on the bookmarklet and done.
+
 
 Enjoy!
 
