@@ -5,7 +5,7 @@ its simple on how to use them
 
 step 1: copy the code that seems interesting.
 
-step 2: create a bookmarklet (however on microsoft edge click the star icon, and with opera click on the heart icon).
+step 2: create a bookmarklet (however on microsoft edge click the star icon, and with brave click the banner shaped icon, and with opera click on the heart icon).
 
 step 3: name it whatever you want.
 
